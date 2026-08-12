@@ -1,23 +1,41 @@
 # -91305_Coder_Clase_entregable5
-Entregable 6 — Sitio Web Personal
-Descripción
+# Entregable 6 — Sitio Web Personal
 
-Este proyecto corresponde al desarrollo de un sitio web personal realizado como parte del proceso de formación en desarrollo web.
+## Descripción
 
-El objetivo principal es integrar conocimientos de HTML5, CSS3, Bootstrap, diseño responsive y control de versiones con Git y GitHub, aplicándolos en la construcción de un sitio web estructurado, funcional y adaptable a diferentes dispositivos.
+Proyecto de desarrollo web correspondiente al Entregable 6 del proceso de formación en Desarrollo Web Full Stack.
 
-Tecnologías utilizadas
-HTML5
-CSS3
-Bootstrap 5.3
-Git
-GitHub
-GitHub Pages
-Estructura del proyecto
+El proyecto consiste en la creación de un sitio web personal orientado a presentar información profesional, habilidades, tecnologías en aprendizaje y proyectos relacionados con el desarrollo web.
 
-El proyecto está organizado de la siguiente manera:
+El sitio fue desarrollado utilizando HTML5, CSS3 y Bootstrap, aplicando principios de diseño responsive, organización estructurada del contenido y componentes reutilizables.
 
-Entregable6/
+## Tecnologías utilizadas
+
+* HTML5
+* CSS3
+* Bootstrap 5.3
+* Flexbox
+* CSS Grid
+* Git
+* GitHub
+* GitHub Pages
+
+## Contenido del sitio
+
+El sitio web presenta:
+
+* Información personal y perfil profesional.
+* Biografía.
+* Galería tecnológica.
+* Servicios y habilidades.
+* Objetivo profesional.
+* Tecnologías en proceso de aprendizaje.
+* Enlaces a redes profesionales y repositorios.
+
+## Estructura del proyecto
+
+```text
+91305_Coder_Clase_entregable6/
 │
 ├── index.html
 │
@@ -31,57 +49,40 @@ Entregable6/
 │   └── styles.css
 │
 └── README.md
-Características
-Sitio web compuesto por cinco páginas HTML.
-Navegación entre las diferentes secciones del sitio.
-Implementación de una Navbar mediante Bootstrap.
-Uso del sistema Grid de Bootstrap para la distribución del contenido.
-Implementación de Flexbox para diferentes elementos de la interfaz.
-Diseño responsive para diferentes tamaños de pantalla.
-Personalización de los componentes de Bootstrap mediante CSS.
-Uso de pseudoclases y pseudoelementos CSS.
-Organización de estilos en una hoja CSS externa.
-Uso de Git para el control de versiones.
-Publicación del proyecto mediante GitHub Pages.
-Páginas del sitio
-Inicio
+```
 
-Página principal del sitio web y punto de entrada al portafolio.
+## Características técnicas
 
-Sobre mí
+* Estructura semántica mediante HTML5.
+* Hoja de estilos externa mediante CSS3.
+* Integración del framework Bootstrap.
+* Implementación de Navbar de Bootstrap.
+* Uso del sistema Grid de Bootstrap.
+* Uso de Flexbox para la distribución de elementos.
+* Diseño adaptable a diferentes tamaños de pantalla.
+* Personalización de componentes Bootstrap mediante CSS.
+* Implementación de pseudoclases y pseudoelementos CSS.
+* Navegación entre las diferentes páginas del sitio.
+* Organización del proyecto mediante carpetas para HTML y estilos.
 
-Presenta información general y perfil del desarrollador.
+## Control de versiones
 
-Proyectos
+El proyecto utiliza **Git** como sistema de control de versiones y **GitHub** como plataforma para almacenar y administrar el repositorio.
 
-Sección destinada a mostrar proyectos y trabajos realizados.
+Los cambios realizados durante el desarrollo fueron registrados mediante commits y posteriormente sincronizados con el repositorio remoto.
 
-Habilidades
+## Publicación
 
-Presenta las principales habilidades y tecnologías relacionadas con el desarrollo web.
+El sitio se encuentra publicado mediante **GitHub Pages**.
 
-Contacto
+### Sitio web
 
-Sección destinada a facilitar la comunicación y el contacto con el desarrollador.
+[Ver sitio web publicado](https://wildcode7.github.io/91305_Coder_Clase_entregable6/?utm_source=chatgpt.com)
 
-Diseño responsive
-
-El sitio utiliza herramientas de Bootstrap y CSS para adaptar la distribución de los elementos a diferentes resoluciones y dispositivos.
-
-Se implementan clases del sistema Grid, Flexbox y reglas CSS responsive para mejorar la visualización en dispositivos móviles, tablets y computadores de escritorio.
-
-Control de versiones
-
-El proyecto utiliza Git para registrar y controlar los cambios realizados durante el desarrollo.
-
-El repositorio se encuentra alojado en GitHub y configurado para su publicación mediante GitHub Pages.
-
-Publicación
-
-El sitio web se encuentra configurado para ser publicado mediante GitHub Pages, utilizando el repositorio como fuente de despliegue.
-
-Autor
+## Autor
 
 Milton Cesar Galvez Zapata
+
+Estudiante de Desarrollo Web Full Stack.
 
 Proyecto desarrollado como parte del proceso de formación en desarrollo web.
